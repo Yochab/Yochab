@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yochab
+- 👀 I’m interested in acquiring literacy in developing.
+- 🌱 I’m currently learning "Beginner Developer Bootcamp" by Colt Steele. Struggling with and focusing on JavaScript.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Facebook: Yohai Betser | Instagram: Sticmkaskin | LinkedIn: Yochai Betser
